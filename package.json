@@ -1,13 +1,20 @@
 {
   "name": "alepounas-movies-n-series-ratings",
-  "author": {"name": "alepouna", "url": "https://alepouna.net"},
-  "repository": {"url": "https://github.com/alepouna/my-movies-n-series-ratings"},
+  "author": {
+    "name": "alepouna",
+    "url": "https://alepouna.net"
+  },
+  "repository": {
+    "url": "https://github.com/alepouna/my-movies-n-series-ratings"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^5.0.0"
+    "@tailwindcss/vite": "^4.3.0",
+    "astro": "^5.0.0",
+    "tailwindcss": "^4.3.0"
   }
 }
