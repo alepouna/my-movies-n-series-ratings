@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "setup": "bun install"
+    "setup": "bun install",
+    "run": "bun run dev -- --host 0.0.0.0"
   }
 }

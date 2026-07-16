@@ -1,0 +1,16 @@
+/*
+{
+   "name": "",
+   "imdb_url": "",
+   "rating": ,
+   "date": ""
+ }
+
+ name: string (movie name) 
+ imdb_url: string (obviously...)
+ rating: number out of 10 (insert the tiktok guy with food nutritions)
+ date: string (DD-MM-YYYY)
+*/
+
+[
+]
